@@ -1,0 +1,6 @@
+Hey branch
+
+Branch- branch is used to create subdivision of main branch
+we can create branch by usind "git branch name"
+Checkout - used to check whether the position in main or branch
+git push origin name - used to push branch into github
