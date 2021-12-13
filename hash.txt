@@ -1,0 +1,1 @@
+hash - GIT strongly relies on SHA-1 for the identification and integrity checking of all file objects and commits.
